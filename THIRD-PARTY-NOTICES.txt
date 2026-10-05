@@ -1,0 +1,36 @@
+Third-Party Software Notices
+
+This service includes the following third-party software:
+
+- @emotion/react - MIT
+  https://www.npmjs.com/package/@emotion/react
+- @emotion/styled - MIT
+  https://www.npmjs.com/package/@emotion/styled
+- @mui/icons-material - MIT
+  https://www.npmjs.com/package/@mui/icons-material
+- @radix-ui/react-select - MIT
+  https://www.npmjs.com/package/@radix-ui/react-select
+- TypeScript - Apache-2.0
+  https://www.npmjs.com/package/typescript
+- React - MIT
+  https://www.npmjs.com/package/react
+- react-dom - MIT
+  https://www.npmjs.com/package/react-dom
+- react-feather - MIT
+  https://www.npmjs.com/package/react-feather
+- react-iconly - MIT
+  https://www.npmjs.com/package/react-iconly
+- Next.js - MIT
+  https://www.npmjs.com/package/next
+- MobX - MIT
+  https://www.npmjs.com/package/mobx
+- mobx-react-lite - MIT
+  https://www.npmjs.com/package/mobx-react-lite
+- Pretendard - SIL Open Font License 1.1
+  https://www.npmjs.com/package/pretendard
+- styled-components - MIT
+  https://www.npmjs.com/package/styled-components
+- Recharts - MIT
+  https://www.npmjs.com/package/recharts
+- xlsx (SheetJS) - Apache-2.0
+  https://www.npmjs.com/package/xlsx
